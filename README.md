@@ -6,3 +6,4 @@ Stack of technologies:
 - SASS;
 - Grunt.js;
 - Node.js;
+- JSON;
